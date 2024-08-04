@@ -1,0 +1,21 @@
+Name,Age,Gender,Major,GPA,Courses,Grad Year,Advisor,Email,Phone
+Alice,21,M,History,3.11,5,2024,Dr. Johnson,alice@example.com,555-555-3077
+Bob,23,F,Mathematics,3.55,9,2022,Dr. Davis,bob@example.com,555-555-5952
+Charlie,19,M,History,2.68,5,2025,Dr. Brown,charlie@example.com,555-555-4992
+Dave,20,F,Computer Science,4.0,8,2022,Dr. Smith,dave@example.com,555-555-8402
+Eve,24,F,Computer Science,2.53,12,2024,Dr. Johnson,eve@example.com,555-555-4505
+Frank,23,M,Computer Science,3.2,2,2025,Dr. Brown,frank@example.com,555-555-7133
+Grace,22,M,Biology,3.02,13,2024,Dr. Johnson,grace@example.com,555-555-8550
+Harry,20,M,Computer Science,2.7,3,2023,Dr. Johnson,harry@example.com,555-555-7564
+Isabel,19,M,History,3.36,12,2023,Dr. Smith,isabel@example.com,555-555-3300
+Jack,21,M,Biology,3.21,13,2025,Dr. Johnson,jack@example.com,555-555-5175
+Karen,23,F,Mathematics,3.58,9,2025,Dr. Brown,karen@example.com,555-555-3970
+Liam,20,F,Computer Science,3.91,5,2024,Dr. Smith,liam@example.com,555-555-9119
+Mary,24,F,Biology,3.5,3,2025,Dr. Johnson,mary@example.com,555-555-3729
+Nancy,19,M,Mathematics,3.84,3,2025,Dr. Johnson,nancy@example.com,555-555-8020
+Oliver,24,F,Biology,2.94,3,2025,Dr. Johnson,oliver@example.com,555-555-5085
+Peter,22,M,History,3.64,12,2023,Dr. Brown,peter@example.com,555-555-3285
+Quincy,18,M,Biology,2.96,3,2024,Dr. Johnson,quincy@example.com,555-555-4682
+Rachel,23,F,Mathematics,3.36,9,2023,Dr. Smith,rachel@example.com,555-555-2993
+Steve,21,M,Biology,3.42,7,2024,Dr. Johnson,steve@example.com,555-555-6660
+Tina,20,M,Biology,3.05,6,2025,Dr. Smith,tina@example.com,555-555-1055
