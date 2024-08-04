@@ -4,8 +4,7 @@ Macquarie University - Data Journalism
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/mathiasfls/Foundations-of-Cultural-and-Social-Data-Analysis/)
 
-In this course, students have an introduction to Python so that they can conduct initial analysis on socio-cultural phenonena using data. Socio-cultural data pose great challenges and offer many opportunities due to their variety and richness, such as historical and literary sources, online social networks and media. During this course, students are introduced to the foundation concepts and techniques for analyzing such a variety of data. 
-
+In this course, students are introduced to Python as a powerful tool for data-driven storytelling. Python's versatility allows media practitioners to conduct initial analyses on a wide range of socio-cultural phenomena, transforming raw data into compelling narratives. Throughout this course, students learn the fundamental concepts and techniques of using Python to analyze diverse datasets common in modern journalism. They gain hands-on experience in data collection, cleaning, and basic statistical analysis using Python libraries such as pandas. By the end of the course, students will have the foundational skills to use Python for exploring datasets, identifying trends, and uncovering stories that might otherwise remain hidden in the numbers.
 
 You can run all the notebooks for this course using Colab (link above). If you prefer to work locally, I recommend using Jupyter notebooks which are easily accessible using the [Anaconda interface](https://www.anaconda.com/products/individual). 
 
