@@ -22,9 +22,9 @@ You can run all the notebooks for this course using Colab (link above). If you p
 <!-- | Extra      | Modelling data  | <a href='6.1_Modelling.ipynb'>notebook</a> |-->
 
 ## Datasets
-<!--  
-The datasets used in this course can be found [here.](https://github.com/mathiasfls/Foundations-of-Cultural-and-Social-Data-Analysis/tree/main/data)
--->
+ 
+The datasets used in this course can be found [here.](https://github.com/mathiasfls/MQ-MMCC8026-Data_Journalism/tree/main/data)
+
 
 Students can also use these datasets(https://github.com/mromanello/ADA-DHOxSS/tree/master/data) to test their knowledge. They are from the [Applied Data Analysis course](https://github.com/mromanello/ADA-DHOxSS).
 
