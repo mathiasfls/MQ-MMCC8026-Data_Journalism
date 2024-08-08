@@ -13,11 +13,13 @@ You can run all the notebooks for this course using Colab (link above). If you p
 | Week         | Topic           | Materials  |
 | ------------- |-------------| -----:|
 | 0      | Preparation | <a href='0_HelloWorld.ipynb'>notebook</a> |
-| 1      | Introduction | <a href='https://www.canva.com/design/DAGMlLW159w/zrNz95xhRk8zHKvLFo1lUA/view?utm_content=DAGMlLW159w&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> + <a href='1_Python_crash_course.ipynb'>notebook</a> |
-| 2      | Data Gathering and Cleaning + Foundation of Statistics | <a href='https://www.canva.com/design/DAFd3atBcFg/4I3E3QVQlGGQi2e4WqfMzw/view?utm_content=DAFd3atBcFg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='2_Hands_on.ipynb'>notebook</a> |
-| 3      | Data Analysis: Exploring your data | <a href='https://www.canva.com/design/DAFekLA845U/Lvl3Ql8xYMDUyQj0m7sBgQ/view?utm_content=DAFekLA845U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='3_Hands_on.ipynb'>notebook</a> |
-| 4      | Combining Data | <a href='https://www.canva.com/design/DAFfOQnK3wE/7c5unzeorGG1lSyJ4FH_jQ/view?utm_content=DAFfOQnK3wE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='4_Hands_on.ipynb'>notebook</a> |
-| 5      | Visualizing Data | <a href='https://www.canva.com/design/DAFf4GQZA-w/YYyV_8y8WD84ZpwQFStH-A/view?utm_content=DAFf4GQZA-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> |
+| 1      | Introduction to Data Journalism| <a href='https://www.canva.com/design/DAGMlLW159w/zrNz95xhRk8zHKvLFo1lUA/view?utm_content=DAGMlLW159w&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> |
+| 2      | Press Freedom, FOI, Open Data, and Ethics + Foundation of Statistics | <a href='https://www.canva.com/design/DAGMlYEhag0/OtViOlgJ79Qwcmzpx8bKyg/view?utm_content=DAGMlYEhag0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel'>slides</a> + <a href='2_Hands_on.ipynb'>notebook</a> |
+| 3      | Coding Foundation | <a href='https://www.canva.com/design/DAGMlLW159w/zrNz95xhRk8zHKvLFo1lUA/view?utm_content=DAGMlLW159w&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> + <a href='1_Python_crash_course.ipynb'>notebook</a> |
+| 4      | Data Gathering and Cleaning + Foundation of Statistics | <a href='https://www.canva.com/design/DAFd3atBcFg/4I3E3QVQlGGQi2e4WqfMzw/view?utm_content=DAFd3atBcFg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='2_Hands_on.ipynb'>notebook</a> |
+| 5      | Data Analysis: Exploring your data | <a href='https://www.canva.com/design/DAFekLA845U/Lvl3Ql8xYMDUyQj0m7sBgQ/view?utm_content=DAFekLA845U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='3_Hands_on.ipynb'>notebook</a> |
+| 6      | Combining Data | <a href='https://www.canva.com/design/DAFfOQnK3wE/7c5unzeorGG1lSyJ4FH_jQ/view?utm_content=DAFfOQnK3wE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='4_Hands_on.ipynb'>notebook</a> |
+| 7      | Visualizing Data | <a href='https://www.canva.com/design/DAFf4GQZA-w/YYyV_8y8WD84ZpwQFStH-A/view?utm_content=DAFf4GQZA-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> |
 <!-- | Extra      | Modelling data  | <a href='6.1_Modelling.ipynb'>notebook</a> |-->
 
 ## Datasets
