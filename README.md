@@ -15,8 +15,8 @@ You can run all the notebooks for this course using Colab (link above). If you p
 | 0      | Preparation | <a href='0_HelloWorld.ipynb'>notebook</a> |
 | 1      | Introduction to Data Journalism| <a href='https://www.canva.com/design/DAGMlLW159w/zrNz95xhRk8zHKvLFo1lUA/view?utm_content=DAGMlLW159w&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> |
 | 2      | Press Freedom, FOI, Open Data, and Ethics + Foundation of Statistics | <a href='https://www.canva.com/design/DAGMlYEhag0/OtViOlgJ79Qwcmzpx8bKyg/view?utm_content=DAGMlYEhag0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel'>slides</a> + <a href='2_Hands_on.ipynb'>notebook</a> |
-| 3      | Coding Foundations | <a href='-----'>slides</a> + <a href='1_Python_crash_course.ipynb'>notebook</a> |
-| 4      | Data Gathering and Cleaning + Foundation of Statistics | <a href='-----'>slides</a> + <a href='2_Hands_on.ipynb'>notebook</a> |
+| 3      | Coding Foundations + Foundation of Statistics| <a href='-----'>slides</a> + <a href='1_Python_crash_course.ipynb'>notebook</a> |
+| 4      | Data Gathering and Cleaning | <a href='-----'>slides</a> + <a href='2_Hands_on.ipynb'>notebook</a> |
 | 5      | Data Analysis: Exploring your data | <a href='-----'>slides</a> + <a href='3_Hands_on.ipynb'>notebook</a> |
 | 6      | Combining Data | <a href='-----'>slides</a> + <a href='4_Hands_on.ipynb'>notebook</a> |
 | 7      | Visualizing Data | <a href='-----'>slides</a> |
