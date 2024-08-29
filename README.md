@@ -17,9 +17,13 @@ You can run all the notebooks for this course using Colab (link above). If you p
 | 2      | Press Freedom, FOI, Open Data, and Ethics + Foundation of Statistics | <a href='https://www.canva.com/design/DAGMlYEhag0/OtViOlgJ79Qwcmzpx8bKyg/view?utm_content=DAGMlYEhag0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel'>slides</a>|
 | 3      | Foundation of Statistics + Code Foundations| <a href='https://www.canva.com/design/DAGMlKymb2o/yZwqw4EHSWhB8-AhB2i19A/view?utm_content=DAGMlKymb2o&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> + <a href='1_Python_crash_course.ipynb'>notebook</a> |
 | 4      | Data Gathering and Cleaning | <a href='https://www.canva.com/design/DAGOnsAOxWU/GF5ReqaGRbtRDKGI6Hrt4A/view?utm_content=DAGOnsAOxWU&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> + <a href='2_Hands_on.ipynb'>notebook</a> |
-| 5      | Data Analysis: Exploring your data | <a href='-----'>slides</a> + <a href='3_Hands_on.ipynb'>notebook</a> |
-| 6      | Combining Data | <a href='-----'>slides</a> + <a href='4_Hands_on.ipynb'>notebook</a> |
+| 5      | Data Analysis: Exploring your data | <a href='https://www.canva.com/design/DAGMlEyzhhU/kAD7zNPPmPcNqV_Odr5ixw/view?utm_content=DAGMlEyzhhU&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> + <a href='3_Hands_on.ipynb'>notebook</a> |
+| 6      | Combining Data | <a href='https://www.canva.com/design/DAGMlPIWe8g/Zo9p-TBxkbyrI2cYAgWr1w/view?utm_content=DAGMlPIWe8g&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> + <a href='4_Hands_on.ipynb'>notebook</a> |
 | 7      | Visualizing Data | <a href='-----'>slides</a> |
+| 8      | OSINT, Geojournalism, Maps, Crowdsourcing, and Social Media Data | <a href='-----'>slides</a> |
+| 9      | Platform Journalism | <a href='-----'>slides</a> |
+| 10      | Due Diligence and Follow the Money | <a href='-----'>slides</a> |
+| 11      | AI and Journalism | <a href='-----'>slides</a> |
 <!-- | Extra      | Modelling data  | <a href='6.1_Modelling.ipynb'>notebook</a> |-->
 
 ## Datasets
