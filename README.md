@@ -24,7 +24,7 @@ You can run all the notebooks for this course using Colab (link above). If you p
 | 9      | Platform Journalism, Crowdsourcing, and Social Media Data | <a href='-----'>slides</a> |
 | 10      | Due Diligence and Follow the Money | <a href='-----'>slides</a> |
 | 11      | AI and Journalism | <a href='-----'>slides</a> |
-<!-- | Extra      | Modelling data  | <a href='6.1_Modelling.ipynb'>notebook</a> |-->
+| Extra      | Project Management - Scrum  | <a href='https://www.canva.com/design/DAGMlMqY6LY/G2teHM7H-O4oCyM02QrJfg/view?utm_content=DAGMlMqY6LY&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> |-->
 
 ## Datasets
  
