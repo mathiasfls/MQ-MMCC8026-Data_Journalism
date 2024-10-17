@@ -22,7 +22,7 @@ You can run all the notebooks for this course using Colab (link above). If you p
 | 7      | Visualizing Data | <a href='https://www.canva.com/design/DAGMlGOqqKg/NepWiEZDUh2vwe8BKiZRDQ/view?utm_content=DAGMlGOqqKg&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> |
 | 8      | OSINT, Geojournalism, and Maps | <a href='https://www.canva.com/design/DAGSgygkveI/AdGrmwAOL9MuajEeFhP-4g/view?utm_content=DAGSgygkveI&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> |
 | 9      | Crowdsourcing, Social Media Data, and Platform Journalism | <a href='https://www.canva.com/design/DAGTJZ6rJrU/t3Yb69Qvlrnh0tHhs0p5Hw/view?utm_content=DAGTJZ6rJrU&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> |
-| 10      | Due Diligence and Follow the Money | <a href='-----'>slides</a> |
+| 10      | Due Diligence and Follow the Money | <a href='https://www.canva.com/design/DAGT0liE-Ig/oPKhT8r1sAl79f-xBmyrrA/view?utm_content=DAGT0liE-Ig&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> |
 | 11      | AI and Journalism | <a href='-----'>slides</a> |
 | Extra      | Project Management - Scrum  | <a href='https://www.canva.com/design/DAGMlMqY6LY/G2teHM7H-O4oCyM02QrJfg/view?utm_content=DAGMlMqY6LY&utm_campaign=designshare&utm_medium=link&utm_source=editor'>slides</a> |-->
 
