@@ -51,7 +51,7 @@ See the [assignments folder](assignments/).
 - Jonathan Gray, G., & Liliana Bounegru, B. (2021). The Data Journalism Handbook: Towards a Critical Data Practice (J. Gray & L. Bounegru, Eds.). Amsterdam University Press. https://doi.org/10.5117/9789462989511
 
 
-  ### Data Visualisation
+### Data Visualisation
 
 - Kennedy, H. (2021). Developing Visualisation Literacy. University of Sheffield. http://seeingdata.org/developing-visualisation-literacy/ Forrest, J. (2019). None of us are free if some of us are not: Catherine D’Ignazio on Data Feminism. https://medium.com/nightingale/catherine-dignazio-on-data-feminism-ce3b3c65f04a
 - Heather Krause. (2120). An Introduction to Data Biography,. We All Count. https://weallcount.com/2019/01/21/an-introduction-to-the-data-biography/ McCandless,. (2012). Information is beautiful. William Collins.
