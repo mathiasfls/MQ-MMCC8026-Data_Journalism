@@ -47,7 +47,8 @@ See the [assignments folder](assignments/).
 - Boyd, D., & Crawford, K. (2012). Critical questions for big data : provocations for a cultural, technological, and scholarly phenomenon. Information, Communication & Society : A Decade in Internet Time : The Dynamics of the Internet and Society, 15(5), 662–679. https://doi.org/10.1080/1369118X.2012.678878 
 - Kitchin, R. (2014). The data revolution : big data, open data, data infrastructures and their consequences (1st ed.). SAGE Publications. https://doi.org/10.4135/9781473909472 
 - Catherine D’Ignazio. (4201). Putting Data Back Into Context. Datajournalism.Com. https://datajournalism.com/read/longreads/putting-data-back-into-context
-- Qiu, J. L. (2015). Reflections on big data : ‘just because it is accessible does not make it ethical.’ Media, Culture & Society, 37(7), 1089–1094. https://doi.org/10.1177/0163443715594104 Butt, C. (1120, Autumn). Everything you always wanted to know about statistics (but were afraid to ask). Sydney Morning Herald. https://www.smh.com.au/national/everything-you-always-wanted-to-know-about-statistics-but-were-afraid-to-ask-20191105-p537ir.html
+- Qiu, J. L. (2015). Reflections on big data : ‘just because it is accessible does not make it ethical.’ Media, Culture & Society, 37(7), 1089–1094. https://doi.org/10.1177/0163443715594104
+- Butt, C. (1120, Autumn). Everything you always wanted to know about statistics (but were afraid to ask). Sydney Morning Herald. https://www.smh.com.au/national/everything-you-always-wanted-to-know-about-statistics-but-were-afraid-to-ask-20191105-p537ir.html
 - Jonathan Gray, G., & Liliana Bounegru, B. (2021). The Data Journalism Handbook: Towards a Critical Data Practice (J. Gray & L. Bounegru, Eds.). Amsterdam University Press. https://doi.org/10.5117/9789462989511
 
 
