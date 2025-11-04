@@ -125,7 +125,8 @@ See the [assignments folder](assignments/).
    ###   Week 9: Platform Journalism, Crowdsourcing, and Social Media Data
  - Napoli, P. M. (2021). The platform beat: Algorithmic watchdogs in the disinformation age. European Journal of Communication (London), 36(4), 376–390. https://doi.org/10.1177/02673231211028359
  - Palomo, B., Teruel, L., & Blanco-Castilla, E. (2019). Data Journalism Projects Based on User-Generated Content. How La Nacion Data Transforms Active Audience into Staff. Digital Journalism, 7(9), 1270–1288. https://doi.org/10.1080/21670811.2019.1626257
- - Zubiaga, A. (2019). Mining social media for newsgathering: A review. Online Social Networks and Media, 13, 100049-. https://doi.org/10.1016/j.osnem.2019.100049 Zubiaga, A., Heravi, B., An, J., & Kwak, H. (2019). Social media mining for journalism. Online Information Review, 43(1), 2–6. https://doi.org/10.1108/OIR-02-2019-395
+ - Zubiaga, A. (2019). Mining social media for newsgathering: A review. Online Social Networks and Media, 13, 100049-. https://doi.org/10.1016/j.osnem.2019.100049
+ - Zubiaga, A., Heravi, B., An, J., & Kwak, H. (2019). Social media mining for journalism. Online Information Review, 43(1), 2–6. https://doi.org/10.1108/OIR-02-2019-395
  
    ###   Week 10: Due Diligence and Follow the Money
 -   UNESCO. (n.d.). Guidelines for understanding and implementing journalistic due diligence. https://www.medijskisavjet.me/images/sampledata/dokumenti/Guidelines%20for%20understanding%20and%20implementing%20due%20journalistic%20diligence.pdf
